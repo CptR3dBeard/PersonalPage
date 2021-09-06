@@ -1,0 +1,14 @@
+﻿.nav-cont{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: powderblue;
+}
+.nav-item{
+    color: whitesmoke;
+    padding: 1em;
+}
+body {
+    margin: 0;
+}
